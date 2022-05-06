@@ -13,22 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9706
-Fork on GitHub
-2346
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Erich</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehils&label=Profile%20views&color=0e75b6&style=flat" alt="ehils" /> </p>
 
@@ -40,7 +24,7 @@ preview
 
 - 🤝 I’m looking for help with **anything I don't know.**
 
-- 👨‍💻 All of my projects are available at [below!](below!)
+- 👨‍💻 All of my projects are available at [https://github.com/ehils?tab=repositories](https://github.com/ehils?tab=repositories)
 
 - 💬 Ask me about **front-end and back-end development, vegan cooking, ceramics, and the Grateful Dead.**
 
